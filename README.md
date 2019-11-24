@@ -1,1 +1,1 @@
-# Satoshi Nakamoto's Marketplace
+# Satoshi Nakamoto's MarketPlace
